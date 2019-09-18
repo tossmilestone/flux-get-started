@@ -14,6 +14,7 @@ spec:
     ref: master
     path: charts/ghost
   values:
+    host: blog
     image: bitnami/ghost:2.31.0
     persistence:
       enabled: false

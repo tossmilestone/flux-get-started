@@ -1,0 +1,1 @@
+{"jobID":"1528e8f9-fe0d-61fe-6ada-61d52649ff79","spec":{"type":"policy","cause":{"Message":"","User":"Xiaoxi He \u003cxxhe@alauda.io\u003e"},"spec":{"demo:helmrelease/ghost":{"add":{"automated":"true"},"remove":{}}}},"result":null}

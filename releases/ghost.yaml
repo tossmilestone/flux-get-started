@@ -15,7 +15,7 @@ spec:
     path: charts/ghost
   values:
     ghostHost: blog
-    image: bitnami/ghost:2.31.0
+    image: bitnami/ghost:1.21.6-r0
     persistence:
       enabled: false
     resources:
